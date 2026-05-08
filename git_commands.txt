@@ -1,0 +1,6 @@
+ git rm --cache testing.py
+ git status
+ git add .
+ git commit -m "adding testing files"
+ git restore testing.py
+ 
