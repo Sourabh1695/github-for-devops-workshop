@@ -12,3 +12,9 @@
 
 # Restore file from git (restoring files from git)
   git restore <file_name>
+
+# adding repo from github into local (1 time command)
+  git remote add origin https://github.com/Sourabh1695/github-for-devops-workshop
+ 
+# Pushing into github 
+  git push origin main
