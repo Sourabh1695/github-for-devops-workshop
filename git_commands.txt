@@ -4,7 +4,7 @@
 # Check whether files are tracked or untracked
   git status
 
-# Add file to git
+# Add file to git (staging)
   git add <file_name>
 
 # File commit (converting untracked files to tracked files)
