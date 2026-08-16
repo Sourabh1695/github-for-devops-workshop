@@ -1,0 +1,14 @@
+# git initialization
+  git init
+
+# Check whether files are tracked or untracked
+  git status
+
+# Add file to git
+  git add <file_name>
+
+# File commit (converting untracked files to tracked files)
+  git commit -m "added testing files"
+
+# Restore file from git (restoring files from git)
+  git restore <file_name>
